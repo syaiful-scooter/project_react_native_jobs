@@ -1,11 +1,12 @@
-Dokumentasi belajar praktek react native (JOB Finder)
--menggunakan expo
--custom hooks untuk penarikan data
--stylesheet dinamis
--Ressponsive design pada seluruh device yg berlainan
--fungsi pencarian
--halaman / pagination
--custom screen headers
+Dokumentasi belajar praktek react native (JOB Finder) :
+
+- menggunakan expo
+- custom hooks untuk penarikan data
+- stylesheet dinamis
+- Ressponsive design pada seluruh device yg berlainan
+- fungsi pencarian
+- halaman / pagination
+- custom screen headers
 
 ===========================================
 
